@@ -11,8 +11,6 @@ Data cleaning:
 # Tools used: My SQL, Tableau Public
 # SQL functions used: Window Functions, CTE, Aggregate Functions
 
-Data source: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazN4VlZzWWl6THlqREdyalRYb0w3WDlfZW5FQXxBQ3Jtc0trS01yTFF0RW9ielliVktHcGNTSTNWY1VfckxXYUVmSGJZbk1pTDRvN09mN2g4Tm9RVGlWQVZMYUVnVzl0bXlPb2RNZTdpMHh1OURVNXZSVFQ3TnZRbHhSbU11QkpFUkdhTzhnb3N0MkVqbl8yNWZLdw&q=https%3A%2F%2Fgithub.com%2FAlexTheAnalyst%2FMySQL-YouTube-Series%2Fblob%2Fmain%2Flayoffs.csv&v=4UltKCnnnTA
-
 Project idea: https://youtu.be/4UltKCnnnTA?si=Im5Pl7CIJiuPozKa
 
-Link to my final Tableau dashbaord based on this project: https://public.tableau.com/views/WorldLayoffs/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+Link to my final explorator Tableau dashbaord based on this project: https://public.tableau.com/views/WorldLayoffs/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
