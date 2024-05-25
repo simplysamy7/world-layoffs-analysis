@@ -8,8 +8,8 @@ Data cleaning:
 3. Removal of nulls and blank values
 4. Removal of unncessary rows and columns
 
-# Tools used: My SQL, Tableau Public
-# SQL functions used: Window Functions, CTE, Aggregate Functions
+Tools used: My SQL, Tableau Public
+SQL functions used: Window Functions, CTE, Aggregate Functions
 
 Project idea: https://youtu.be/4UltKCnnnTA?si=Im5Pl7CIJiuPozKa
 
